@@ -1,4 +1,4 @@
-## Taking Screenshot & Upload on S3
+## Ansible Vault for Secure Secrets Management
 
 **Code:**
 
